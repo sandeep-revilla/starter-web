@@ -21,3 +21,5 @@ this is for staging area
 this for working directory
 ### 
 2014 git.training
+
+please fork this repository and issue pull request for the review
