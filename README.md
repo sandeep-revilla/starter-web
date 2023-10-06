@@ -19,3 +19,5 @@ This is git area
 this is for staging area
 
 this for working directory
+### 
+2014 git.training
