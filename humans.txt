@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    sandeep Revilla sandeep.revilla santwitter
 
 # THANKS
 
