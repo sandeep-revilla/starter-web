@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub worky. Adding a line for rebas
 
 Sample website with plenty of files for demos
 
+this is for stashing example
+
 ### 
 
 Deployement
